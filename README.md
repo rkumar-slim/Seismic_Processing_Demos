@@ -4,29 +4,29 @@ Simple demos to learn seismic data processing
 This toolbox will demonstrate an easy way to run various seismic data processing technqiues. All the technqies will have some flavour of 
 Compressed Sensing. Each application contains a PDF document explining the porblem and solution.
 
-%% Seismic data interpolation
+## Seismic data interpolation
 
 
 
 
-%% Source-separation (deblending)
+## Source-separation (deblending)
 
 
 
-%% Denoising
+## Denoising
 
 
 
-%% Wave-separation
+## Wave-separation
 
 
 
-%% Wave-equation based imaging and inversion
+## Wave-equation based imaging and inversion
 
 
 
 
-%% Wave-equation based migration velocity analysis
+## Wave-equation based migration velocity analysis
 
 
 
